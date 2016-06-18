@@ -1,0 +1,20 @@
+@include breakpoint($tablet) {
+
+	header {
+
+		h1 {
+			font-size: 11rem;
+		}
+
+		h2 {
+			font-size: 2rem;
+		}
+	}
+
+	
+	.icon {
+	    width: 5rem;
+    	height: 5rem;
+	}
+
+}
